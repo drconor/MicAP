@@ -1,0 +1,9 @@
+{
+	"version": 1,
+	"attached_datasets": [
+		{
+			"id": "3ea4a022-9041-4ca9-b478-0a70f80902d5",
+			"mount": "mm_e16.5_20x_sox9_sftpc_acta2"
+		}
+	]
+}

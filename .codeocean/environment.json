@@ -1,0 +1,9 @@
+{
+	"version": 1,
+	"base_image": "codeocean/71b6fc21-a9f8-4452-b5f0-d229dbcd9bd9:v1",
+	"post_install": true,
+	"options": {
+		"registry_host_arg": true,
+		"git_ask_pass": true
+	}
+}

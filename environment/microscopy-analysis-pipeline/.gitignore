@@ -1,0 +1,12 @@
+build/
+dist/
+*.egg-info/
+.idea
+data
+*.ipynb
+*.pkl
+tmp
+*.tiff
+*.tif
+*.zip
+__pycache__
